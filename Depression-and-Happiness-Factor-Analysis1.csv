@@ -1,0 +1,532 @@
+Timestamp,Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+2020/12/03 3:26:01 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/03 6:25:04 PM GMT+6,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 5:40:40 PM GMT+6,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 8:43:29 PM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/05 4:14:34 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/07 9:51:32 AM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/11 3:47:56 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/15 11:41:42 AM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/18 10:05:21 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2020/12/20 10:29:44 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2020/12/20 2:18:53 PM GMT+6,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 3:05:48 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:06:26 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:11:18 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 5:14:57 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:39:54 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:53:29 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:59:32 PM GMT+6,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:05:47 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:13:35 PM GMT+6,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:17:30 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:18:27 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:37:38 PM GMT+6,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:40:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:44:02 PM GMT+6,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/20 9:46:02 PM GMT+6,4th year,Good,74,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,74,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,74,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,75,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,75,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:46:03 PM GMT+6,4th year,Good,72,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/21 12:30:06 PM GMT+6,4th year,Good,77,Female,23,Department,Single,Yes,5,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/21 12:33:18 PM GMT+6,4th year,Very good,91,Female,23,Hall-Mess,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,10
+2020/12/21 12:38:13 PM GMT+6,4th year,Very good,99,Female,23,Home,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,9
+2020/12/21 12:41:13 PM GMT+6,4th year,Bad,27,Female,23,Playground,Single,No,3,Good,Yes,No,No,Friends,Yes,Yes,No,No,Yes,5
+2020/12/21 12:43:14 PM GMT+6,4th year,Bad,26,Female,23,Department,Single,Yes,1,Normal,Yes,Yes,No,Friends,Yes,Maybe,No,Yes,Yes,5
+2020/12/21 12:48:54 PM GMT+6,4th year,Good,72,Female,23,Playground,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,7
+2020/12/21 12:49:59 PM GMT+6,4th year,Good,86,Female,23,Department,Single,Yes,5,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,10
+2020/12/21 12:52:59 PM GMT+6,4th year,Very good,95,Female,23,Playground,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,10
+2020/12/21 2:01:54 PM GMT+6,4th year,Normal,55,Female,23,Playground,Single,No,5,Normal,No,No,No,Friends,Yes,No,Neutral,Yes,No,8
+2020/12/21 2:04:55 PM GMT+6,4th year,Normal,60,Female,23,Department,Single,No,3,Normal,No,Yes,No,Friends,Yes,No,Yes,Yes,Yes,6
+2020/12/21 2:06:53 PM GMT+6,4th year,Very good,93,Female,23,Hall-Mess,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/21 2:08:53 PM GMT+6,4th year,Bad,37,Female,23,Department,Single,Yes,3,Good,Yes,No,Yes,Friends,Yes,Maybe,No,Yes,Yes,4
+2020/12/21 2:10:58 PM GMT+6,4th year,Very good,93,Female,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2020/12/21 2:13:59 PM GMT+6,4th year,Very good,92,Female,23,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,10
+2020/12/21 2:15:55 PM GMT+6,4th year,Very good,100,Female,23,Playground,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,10
+2020/12/21 2:18:59 PM GMT+6,4th year,Good,77,Female,23,Department,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+2020/12/21 2:20:59 PM GMT+6,4th year,Very bad,15,Female,23,Home,Single,No,3,Good,Yes,Yes,No,Friends,Yes,No,No,Yes,Yes,3
+2020/12/21 2:23:55 PM GMT+6,4th year,Bad,31,Female,23,Home,Single,No,3,Bad,Yes,No,Yes,Friends,Yes,Yes,No,Yes,No,4
+2020/12/21 2:26:57 PM GMT+6,4th year,Normal,64,Female,23,Home,Single,Yes,5,Good,Yes,No,No,Family,Yes,Maybe,Neutral,Yes,No,7
+2020/12/21 2:30:02 PM GMT+6,4th year,Bad,28,Female,23,Playground,Single,Yes,3,Bad,Yes,No,No,Family,Yes,Maybe,Neutral,Yes,No,5
+2020/12/21 2:32:54 PM GMT+6,4th year,Very bad,17,Female,23,Home,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Neutral,Yes,Yes,4
+2020/12/21 2:34:54 PM GMT+6,4th year,Normal,53,Female,23,Hall-Mess,Single,No,4,Normal,Yes,No,Yes,Friends,Yes,No,Yes,Yes,No,8
+2020/12/21 2:36:54 PM GMT+6,4th year,Bad,23,Female,23,Home,Single,No,1,Bad,Yes,Yes,Yes,Friends,Yes,Maybe,No,Yes,Yes,5
+2020/12/21 2:39:54 PM GMT+6,4th year,Good,89,Female,23,Department,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,10
+2020/12/21 2:41:54 PM GMT+6,4th year,Normal,53,Female,23,Hall-Mess,Single,No,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,Yes,No,6
+2020/12/21 2:44:55 PM GMT+6,4th year,Very good,99,Female,23,Hall-Mess,Single,Yes,5,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,8
+2020/12/21 2:46:55 PM GMT+6,4th year,Bad,35,Female,23,Department,Single,Yes,2,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,6
+2020/12/21 2:49:55 PM GMT+6,4th year,Very good,96,Female,23,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,8
+2020/12/22 1:32:53 PM GMT+6,4th year,Normal,52,Female,23,Department,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,8
+2020/12/22 1:35:53 PM GMT+6,4th year,Good,73,Female,23,Playground,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2020/12/22 1:38:55 PM GMT+6,4th year,Very good,93,Female,23,Hall-Mess,Single,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,No,8
+2020/12/22 1:40:54 PM GMT+6,4th year,Good,70,Female,23,Playground,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,7
+2020/12/22 1:43:54 PM GMT+6,4th year,Bad,42,Female,23,Home,Single,Yes,1,Bad,Yes,No,Yes,Family,Yes,No,Neutral,Yes,Yes,3
+2020/12/22 1:46:53 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,7
+2020/12/22 1:48:53 PM GMT+6,4th year,Normal,66,Female,23,Department,Single,No,4,Normal,Yes,No,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/22 1:50:53 PM GMT+6,4th year,Very bad,18,Female,23,Home,Single,Yes,2,Good,Yes,No,No,Family,Yes,Yes,No,No,No,5
+2020/12/22 1:52:53 PM GMT+6,4th year,Very good,98,Female,23,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+2020/12/22 1:54:55 PM GMT+6,4th year,Normal,59,Female,23,Department,Single,Yes,5,Normal,Yes,Yes,Yes,Family,Yes,Maybe,Yes,No,Yes,7
+2020/12/22 1:57:55 PM GMT+6,4th year,Bad,26,Female,23,Home,Single,No,1,Good,Yes,No,Yes,Family,Yes,Yes,Neutral,No,Yes,3
+2020/12/22 2:00:54 PM GMT+6,4th year,Normal,53,Female,23,Hall-Mess,Single,No,3,Normal,No,Yes,No,Friends,Yes,Maybe,Yes,No,Yes,6
+2020/12/22 2:02:55 PM GMT+6,4th year,Very bad,4,Female,23,Playground,Single,No,3,Normal,Yes,No,Yes,Family,Yes,No,Neutral,Yes,Yes,3
+2020/12/22 2:04:57 PM GMT+6,4th year,Bad,34,Female,23,Department,Single,Yes,1,Good,Yes,Yes,Yes,Friends,Yes,Yes,Yes,No,Yes,4
+2020/12/22 2:07:54 PM GMT+6,4th year,Good,72,Female,23,Hall-Mess,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,7
+2020/12/22 2:10:00 PM GMT+6,4th year,Very bad,7,Female,23,Playground,Single,No,3,Normal,Yes,No,Yes,Friends,Yes,Yes,No,Yes,No,4
+2020/12/22 2:12:31 PM GMT+6,4th year,Very bad,4,Female,23,Department,Single,No,1,Normal,Yes,No,No,Friends,Yes,Yes,Neutral,Yes,No,7
+2020/12/22 2:14:59 PM GMT+6,4th year,Very good,99,Female,23,Home,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,No,10
+2020/12/22 2:16:58 PM GMT+6,4th year,Normal,68,Female,23,Home,Single,Yes,5,Normal,No,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+2020/12/22 2:19:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Friends,Yes,Maybe,Yes,No,Yes,6
+2020/12/22 2:21:54 PM GMT+6,4th year,Bad,24,Female,23,Hall-Mess,Single,No,3,Bad,Yes,No,Yes,Friends,Yes,Maybe,No,Yes,Yes,7
+2020/12/22 2:23:58 PM GMT+6,4th year,Very bad,15,Female,23,Hall-Mess,Single,Yes,2,Normal,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,No,Yes,7
+2020/12/22 2:25:54 PM GMT+6,4th year,Good,70,Female,23,Department,Single,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2020/12/22 2:27:54 PM GMT+6,4th year,Good,72,Female,23,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,7
+2020/12/22 2:29:54 PM GMT+6,4th year,Good,86,Female,23,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,8
+2020/12/22 2:32:54 PM GMT+6,4th year,Very bad,11,Female,23,Department,Single,No,2,Normal,Yes,No,No,Friends,Yes,No,No,Yes,Yes,6
+2020/12/22 2:34:55 PM GMT+6,4th year,Very good,96,Female,23,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/22 2:36:58 PM GMT+6,4th year,Good,89,Female,23,Home,Single,Yes,5,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,10
+2020/12/22 2:39:54 PM GMT+6,4th year,Normal,54,Female,23,Department,Single,Yes,5,Good,No,No,No,Friends,Yes,No,Yes,No,Yes,8
+2020/12/22 2:42:58 PM GMT+6,4th year,Good,85,Female,23,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,9
+2020/12/22 7:12:47 PM GMT+6,4th year,Very good,91,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,10
+2020/12/22 7:15:48 PM GMT+6,4th year,Very bad,2,Female,23,Department,Single,No,3,Good,Yes,No,Yes,Friends,Yes,Maybe,No,Yes,Yes,6
+2020/12/22 7:18:47 PM GMT+6,4th year,Very good,98,Female,23,Playground,Single,Yes,4,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,9
+2020/12/22 7:20:48 PM GMT+6,4th year,Bad,31,Female,23,Home,Single,No,3,Normal,Yes,No,No,Family,Yes,Maybe,Neutral,Yes,Yes,3
+2020/12/22 7:22:48 PM GMT+6,4th year,Very good,94,Female,23,Department,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,9
+2020/12/22 7:24:48 PM GMT+6,4th year,Bad,47,Female,23,Hall-Mess,Single,No,3,Normal,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,No,6
+2020/12/22 7:26:48 PM GMT+6,4th year,Very good,92,Female,23,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,8
+2020/12/23 11:22:53 AM GMT+6,4th year,Good,76,Female,23,Playground,Single,Yes,3,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,8
+2020/12/23 11:25:54 AM GMT+6,4th year,Good,71,Female,23,Hall-Mess,Single,Yes,5,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,10
+2020/12/23 11:27:56 AM GMT+6,4th year,Very bad,15,Female,23,Home,Single,Yes,3,Bad,Yes,Yes,No,Friends,Yes,Yes,Yes,Yes,No,3
+2020/12/23 11:29:56 AM GMT+6,4th year,Very good,99,Female,23,Department,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,9
+2020/12/23 11:31:55 AM GMT+6,4th year,Good,85,Female,23,Department,Single,Yes,3,Normal,No,No,Yes,Family,Yes,No,Neutral,No,Yes,8
+2020/12/23 11:34:05 AM GMT+6,4th year,Bad,32,Female,23,Playground,Single,Yes,3,Good,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,4
+2020/12/23 11:36:56 AM GMT+6,4th year,Normal,60,Female,23,Playground,Single,No,3,Normal,No,No,No,Family,Yes,Maybe,Yes,Yes,Yes,6
+2020/12/23 11:40:01 AM GMT+6,4th year,Very bad,1,Female,23,Department,Single,Yes,1,Bad,Yes,No,No,Family,Yes,Yes,No,Yes,Yes,4
+2020/12/23 11:41:54 AM GMT+6,4th year,Bad,41,Female,23,Hall-Mess,Single,Yes,2,Normal,Yes,Yes,Yes,Friends,Yes,No,Neutral,No,No,4
+2020/12/23 11:44:59 AM GMT+6,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2020/12/23 11:47:54 AM GMT+6,4th year,Good,88,Female,23,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2020/12/23 11:50:53 AM GMT+6,4th year,Very good,90,Female,23,Home,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,10
+2020/12/23 11:52:53 AM GMT+6,4th year,Normal,50,Female,23,Hall-Mess,Single,Yes,4,Normal,No,No,No,Friends,Yes,No,Neutral,No,No,6
+2020/12/23 11:55:59 AM GMT+6,4th year,Good,83,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,8
+2020/12/23 11:58:59 AM GMT+6,4th year,Normal,62,Female,23,Home,Single,Yes,3,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,8
+2020/12/23 12:00:55 PM GMT+6,4th year,Normal,57,Female,23,Playground,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,No,Neutral,No,Yes,8
+2020/12/23 12:03:57 PM GMT+6,4th year,Normal,70,Female,23,Department,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,8
+2020/12/23 12:07:00 PM GMT+6,4th year,Bad,31,Female,23,Department,Single,No,2,Normal,Yes,Yes,No,Family,Yes,Yes,Yes,No,No,6
+2020/12/23 12:10:00 PM GMT+6,4th year,Bad,46,Female,23,Department,Single,No,1,Good,Yes,No,No,Friends,Yes,No,Neutral,Yes,Yes,7
+2020/12/23 12:12:55 PM GMT+6,4th year,Very good,90,Female,23,Playground,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,9
+2020/12/23 12:15:59 PM GMT+6,4th year,Normal,63,Female,23,Home,Single,Yes,3,Good,No,Yes,No,Friends,Yes,Maybe,Yes,Yes,No,6
+2020/12/23 12:18:08 PM GMT+6,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2020/12/23 12:20:53 PM GMT+6,4th year,Normal,54,Female,23,Playground,Single,No,4,Normal,Yes,No,No,Friends,Yes,No,Yes,No,Yes,8
+2020/12/23 12:22:54 PM GMT+6,4th year,Good,89,Female,23,Playground,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,7
+2020/12/23 12:24:54 PM GMT+6,4th year,Very good,99,Female,23,Home,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/23 12:27:55 PM GMT+6,4th year,Very good,91,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,8
+2020/12/23 12:30:55 PM GMT+6,4th year,Very good,100,Female,23,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,10
+2020/12/23 12:32:54 PM GMT+6,4th year,Normal,69,Female,23,Playground,Single,No,5,Good,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,No,Yes,7
+2020/12/23 12:35:54 PM GMT+6,4th year,Bad,48,Female,23,Home,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Yes,Neutral,Yes,No,4
+2020/12/23 12:38:54 PM GMT+6,4th year,Very bad,17,Female,23,Department,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,No,Neutral,No,No,4
+2020/12/24 12:38:54 PM GMT+6,1st year,Very bad,10,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,No,No,No,6
+2020/12/24 12:38:54 PM GMT+7,1st year,Good,75,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,No,No,No,7
+2020/12/24 12:38:54 PM GMT+8,1st year,Very good,100,Female,20,Department,Single,Yes,2,Good,No,Yes,Yes,Family,No,No,Yes,No,No,7
+2020/12/24 12:38:54 PM GMT+9,1st year,Very good,95,Female,20,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/24 12:38:54 PM GMT+10,1st year,Normal,50,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,No,No,8
+2020/12/24 12:38:54 PM GMT+11,1st year,Very good,100,Female,20,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/24 12:38:54 PM GMT+12,4th year,Normal,60,Female,23,Home,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,Yes,No,7
+2020/12/24 12:38:54 PM GMT+13,1st year,Normal,50,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,Maybe,Yes,No,No,7
+2020/12/24 12:38:54 PM GMT+14,1st year,Good,60,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Family,Yes,Maybe,Yes,No,No,7
+2020/12/24 12:38:54 PM GMT+15,2nd year,Good,60,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,No,7
+2020/12/24 12:38:54 PM GMT+16,2nd year,Good,70,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,6
+2020/12/24 12:38:54 PM GMT+17,2nd year,Good,80,Female,21,Playground,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,6
+2020/12/24 12:38:54 PM GMT+18,2nd year,Good,80,Female,21,Sanmar Ocean City,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,7
+2020/12/24 12:38:54 PM GMT+19,2nd year,Good,80,Female,21,Sanmar Ocean City,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8
+2020/12/24 12:38:54 PM GMT+20,2nd year,Very bad,1,Female,21,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,5
+2020/12/24 12:38:54 PM GMT+21,2nd year,Good,75,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,2
+2020/12/24 12:38:54 PM GMT+22,3rd year,Very bad,1,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,6
+2021/01/05 4:14:34 PM GMT+6,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+7,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+8,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+9,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+10,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+11,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+12,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+13,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+14,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+15,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+16,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+17,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+18,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+19,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+20,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+21,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+22,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+23,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+10,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+11,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+12,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+13,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+14,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+15,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+16,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+17,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+18,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+19,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+20,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+21,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+22,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+23,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/02/03 3:26:01 PM GMT+6,2nd year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+7,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+8,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+9,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+10,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+11,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+12,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+13,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+14,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+15,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2021/02/03 3:26:01 PM GMT+16,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/02/03 3:26:01 PM GMT+17,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+18,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+19,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+20,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+21,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+22,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+23,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+24,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+25,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+26,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+27,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+28,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+29,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2021/02/03 3:26:01 PM GMT+30,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2021/02/03 3:26:01 PM GMT+31,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/02/03 3:26:01 PM GMT+32,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+33,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+34,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+35,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+36,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+37,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+38,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+39,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+40,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+41,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+42,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2021/02/03 3:26:01 PM GMT+43,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/02/03 3:26:01 PM GMT+44,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+45,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:11:18 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 5:14:57 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:39:54 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:53:29 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:59:32 PM GMT+6,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:05:47 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:13:35 PM GMT+6,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:17:30 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:18:27 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:37:38 PM GMT+6,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:40:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:44:02 PM GMT+6,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/03 3:26:01 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/03 6:25:04 PM GMT+6,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 5:40:40 PM GMT+6,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 8:43:29 PM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/05 4:14:34 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/07 9:51:32 AM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/11 3:47:56 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/15 11:41:42 AM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/18 10:05:21 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2020/12/20 10:29:44 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2020/12/20 2:18:53 PM GMT+6,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 3:05:48 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:06:26 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:11:18 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 5:14:57 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:39:54 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:53:29 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:59:32 PM GMT+6,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:05:47 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:13:35 PM GMT+6,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:17:30 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:18:27 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:37:38 PM GMT+6,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:40:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:44:02 PM GMT+6,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/30 9:20:17 PM GMT+6,1st year,Normal,64,Female,19,Department,Single,Yes,5,Good,No,No,Yes,Family,Yes,Maybe,Yes,Yes,No,6
+2021/01/30 9:20:27 PM GMT+6,1st year,Normal,64,Female,19,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Maybe,Yes,Yes,No,7
+2021/01/30 9:20:38 PM GMT+6,2nd year,Normal,66,Female,20,Department,Single,No,3,Good,No,No,No,Family,Yes,No,Yes,Yes,No,8
+2021/01/30 9:20:48 PM GMT+6,1st year,Very good,90,Female,19,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,10
+2021/01/30 9:20:58 PM GMT+6,3rd year,Very good,91,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:21:18 PM GMT+6,1st year,Normal,62,Female,19,Home,Single,Yes,4,Good,No,No,No,Family,Yes,No,Neutral,Yes,No,7
+2021/01/30 9:21:29 PM GMT+6,1st year,Good,76,Female,19,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/01/30 9:21:48 PM GMT+6,3rd year,Bad,34,Female,21,Department,Single,Yes,2,Bad,Yes,No,Yes,Friends,Yes,Yes,Neutral,No,No,7
+2021/01/30 9:22:02 PM GMT+6,2nd year,Bad,49,Female,20,Playground,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,7
+2021/01/30 9:22:21 PM GMT+6,3rd year,Very bad,4,Female,21,Department,Single,No,1,Good,Yes,No,Yes,Friends,Yes,Yes,No,No,Yes,4
+2021/01/30 9:22:29 PM GMT+6,2nd year,Very good,99,Female,20,Department,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:22:49 PM GMT+6,3rd year,Good,77,Female,21,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:22:59 PM GMT+6,4th year,Bad,31,Female,22,Home,Single,Yes,2,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:09 PM GMT+6,3rd year,Very good,98,Female,21,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:23:19 PM GMT+6,1st year,Very good,98,Female,19,Department,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+2021/01/30 9:23:29 PM GMT+6,4th year,Bad,26,Female,22,Department,Single,Yes,2,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:51 PM GMT+6,1st year,Bad,46,Female,19,Hall-Mess,Single,Yes,1,Normal,Yes,Yes,No,Family,Yes,No,No,Yes,No,3
+2021/01/30 9:23:59 PM GMT+6,3rd year,Good,82,Female,21,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,7
+2021/01/30 9:24:10 PM GMT+6,2nd year,Normal,65,Female,20,Department,Single,Yes,5,Good,Yes,Yes,Yes,Family,Yes,No,Yes,Yes,Yes,6
+2021/01/30 9:24:30 PM GMT+6,2nd year,Good,71,Female,20,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2021/01/30 9:24:51 PM GMT+6,2nd year,Normal,65,Female,20,Home,Single,Yes,3,Good,Yes,No,No,Family,Yes,No,Neutral,Yes,No,6
+2021/01/30 9:25:01 PM GMT+6,3rd year,Good,78,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2021/01/30 9:25:10 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8
+2021/01/30 9:25:30 PM GMT+6,4th year,Bad,44,Female,23,Playground,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+2021/07/20 1:47:54 PM GMT+6,4th year,Bad,20,Female,23,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,21
+2021/07/20 6:47:11 PM GMT+6,4th year,Good,80,Female,24,Home,Single,Yes,2,Normal,No,No,Yes,Family,No,Yes,No,No,No,20
+2021/01/30 9:20:17 PM GMT+6,1st year,Normal,64,Female,19,Department,Single,Yes,5,Good,No,No,Yes,Family,Yes,Maybe,Yes,Yes,No,6
+2021/01/30 9:20:27 PM GMT+6,1st year,Normal,64,Female,19,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Maybe,Yes,Yes,No,7
+2021/01/30 9:20:38 PM GMT+6,2nd year,Normal,66,Female,20,Department,Single,No,3,Good,No,No,No,Family,Yes,No,Yes,Yes,No,8
+2021/01/30 9:20:48 PM GMT+6,1st year,Very good,90,Female,19,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,10
+2021/01/30 9:20:58 PM GMT+6,3rd year,Very good,91,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:21:18 PM GMT+6,1st year,Normal,62,Female,19,Home,Single,Yes,4,Good,No,No,No,Family,Yes,No,Neutral,Yes,No,7
+2021/01/30 9:21:29 PM GMT+6,1st year,Good,76,Female,19,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/01/30 9:21:48 PM GMT+6,3rd year,Bad,34,Female,21,Department,Single,Yes,2,Bad,Yes,No,Yes,Friends,Yes,Yes,Neutral,No,No,7
+2021/01/30 9:22:02 PM GMT+6,2nd year,Bad,49,Female,20,Playground,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,7
+2021/01/30 9:22:21 PM GMT+6,3rd year,Very bad,4,Female,21,Department,Single,No,1,Good,Yes,No,Yes,Friends,Yes,Yes,No,No,Yes,4
+2021/01/30 9:22:29 PM GMT+6,2nd year,Very good,99,Female,20,Department,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:22:49 PM GMT+6,3rd year,Good,77,Female,21,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:22:59 PM GMT+6,4th year,Bad,31,Female,22,Home,Single,Yes,2,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:09 PM GMT+6,3rd year,Very good,98,Female,21,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:23:19 PM GMT+6,1st year,Very good,98,Female,19,Department,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+2021/01/30 9:23:29 PM GMT+6,4th year,Bad,26,Female,22,Department,Single,Yes,2,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:51 PM GMT+6,1st year,Bad,46,Female,19,Hall-Mess,Single,Yes,1,Normal,Yes,Yes,No,Family,Yes,No,No,Yes,No,3
+2021/01/30 9:23:59 PM GMT+6,3rd year,Good,82,Female,21,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,7
+2021/01/30 9:24:10 PM GMT+6,2nd year,Normal,65,Female,20,Department,Single,Yes,5,Good,Yes,Yes,Yes,Family,Yes,No,Yes,Yes,Yes,6
+2021/01/30 9:24:30 PM GMT+6,2nd year,Good,71,Female,20,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2021/01/30 9:24:51 PM GMT+6,2nd year,Normal,65,Female,20,Home,Single,Yes,3,Good,Yes,No,No,Family,Yes,No,Neutral,Yes,No,6
+2021/01/30 9:25:01 PM GMT+6,3rd year,Good,78,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2021/01/30 9:25:10 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8
+2021/01/30 9:25:30 PM GMT+6,4th year,Bad,44,Female,23,Playground,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+2021/07/20 1:47:54 PM GMT+6,4th year,Bad,20,Female,23,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,21
+2021/07/20 6:47:11 PM GMT+6,4th year,Good,80,Female,24,Home,Single,Yes,2,Normal,No,No,Yes,Family,No,Yes,No,No,No,20
+2021/06/23 11:41:54 AM GMT+6,4th year,Bad,41,Female,23,Hall-Mess,Single,Yes,2,Normal,Yes,Yes,Yes,Friends,Yes,No,Neutral,No,No,4
+2021/06/23 11:41:54 AM GMT+7,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/06/23 11:41:54 AM GMT+8,4th year,Good,88,Female,23,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/06/23 11:41:54 AM GMT+9,4th year,Very good,90,Female,23,Home,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,10
+2021/06/23 11:41:54 AM GMT+10,4th year,Normal,50,Female,23,Hall-Mess,Single,Yes,4,Normal,No,No,No,Friends,Yes,No,Neutral,No,No,6
+2021/06/23 11:41:54 AM GMT+11,4th year,Good,83,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,8
+2021/06/23 11:41:54 AM GMT+12,4th year,Normal,62,Female,23,Home,Single,Yes,3,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+13,4th year,Normal,57,Female,23,Playground,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,No,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+14,4th year,Normal,70,Female,23,Department,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,8
+2021/06/23 11:41:54 AM GMT+15,4th year,Bad,31,Female,23,Department,Single,No,2,Normal,Yes,Yes,No,Family,Yes,Yes,Yes,No,No,6
+2021/06/23 11:41:54 AM GMT+16,4th year,Bad,46,Female,23,Department,Single,No,1,Good,Yes,No,No,Friends,Yes,No,Neutral,Yes,Yes,7
+2021/06/23 11:41:54 AM GMT+17,4th year,Very good,90,Female,23,Playground,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/06/23 11:41:54 AM GMT+18,4th year,Normal,63,Female,23,Home,Single,Yes,3,Good,No,Yes,No,Friends,Yes,Maybe,Yes,Yes,No,6
+2021/06/23 11:41:54 AM GMT+19,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/06/23 11:41:54 AM GMT+20,4th year,Normal,54,Female,23,Playground,Single,No,4,Normal,Yes,No,No,Friends,Yes,No,Yes,No,Yes,8
+2021/06/23 11:41:54 AM GMT+21,4th year,Good,89,Female,23,Playground,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,7
+2021/06/23 11:41:54 AM GMT+22,4th year,Very good,99,Female,23,Home,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/06/23 11:41:54 AM GMT+23,4th year,Very good,91,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+24,4th year,Very good,100,Female,23,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,10
+2021/06/23 11:41:54 AM GMT+25,4th year,Normal,69,Female,23,Playground,Single,No,5,Good,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,No,Yes,7
+2021/06/23 11:41:54 AM GMT+26,4th year,Bad,48,Female,23,Home,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Yes,Neutral,Yes,No,4
+2021/06/23 11:41:54 AM GMT+27,4th year,Very bad,17,Female,23,Department,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,No,Neutral,No,No,4
+2021/06/23 11:41:54 AM GMT+28,1st year,Very bad,10,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,No,No,No,6
+2021/06/23 11:41:54 AM GMT+29,1st year,Good,75,Female,20,Hall-Mess,Single,Yes,1,Good,Yes,No,No,Family,Yes,Maybe,No,No,No,7
+2021/06/23 11:41:54 AM GMT+30,1st year,Very good,100,Female,20,Department,Single,Yes,2,Good,No,Yes,Yes,Family,No,No,Yes,No,No,7
+2021/06/23 11:41:54 AM GMT+31,1st year,Very good,95,Female,20,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/06/23 11:41:54 AM GMT+32,1st year,Normal,50,Female,20,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,Maybe,Yes,No,No,8
+2020/12/24 12:38:54 PM GMT+16,2nd year,Good,70,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,6
+2020/12/24 12:38:54 PM GMT+17,2nd year,Good,80,Female,21,Playground,Single,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,6
+2020/12/24 12:38:54 PM GMT+18,2nd year,Good,80,Female,21,Sanmar Ocean City,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,7
+2020/12/24 12:38:54 PM GMT+19,2nd year,Good,80,Female,21,Sanmar Ocean City,Single,Yes,3,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8
+2020/12/24 12:38:54 PM GMT+20,2nd year,Very bad,1,Female,21,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,5
+2020/12/24 12:38:54 PM GMT+21,2nd year,Good,75,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,2
+2020/12/24 12:38:54 PM GMT+22,3rd year,Very bad,1,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,Yes,Yes,No,No,6
+2021/01/05 4:14:34 PM GMT+6,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+7,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+8,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+9,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+10,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+11,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+12,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+13,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+14,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+15,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+16,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+17,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+18,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+19,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+20,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+21,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+22,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+23,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+10,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+11,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+12,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+13,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+14,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+15,3rd year,Very good,100,Female,22,Department,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+16,3rd year,Bad,40,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+17,3rd year,Very bad,5,Female,22,Department,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,5
+2021/01/05 4:14:34 PM GMT+18,3rd year,Bad,10,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/05 4:14:34 PM GMT+19,3rd year,Good,70,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,2
+2021/01/05 4:14:34 PM GMT+20,3rd year,Good,80,Female,22,CUET Campus,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/01/05 4:14:34 PM GMT+21,3rd year,Normal,60,Female,22,Hall-Mess,Single,Yes,3,Good,Yes,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+22,3rd year,Bad,45,Female,22,"GEC, Chittagong",Single,Yes,3,Good,No,No,Yes,Family,No,No,Yes,No,No,10
+2021/01/05 4:14:34 PM GMT+23,3rd year,Normal,50,Female,22,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/02/03 3:26:01 PM GMT+6,2nd year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+7,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+8,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+9,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+10,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+11,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+12,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+13,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+14,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+15,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2021/02/03 3:26:01 PM GMT+16,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/02/03 3:26:01 PM GMT+17,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+18,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+19,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+20,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+21,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+22,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+23,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+24,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+25,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+26,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+27,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+28,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+29,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2021/02/03 3:26:01 PM GMT+30,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2021/02/03 3:26:01 PM GMT+31,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2021/02/03 3:26:01 PM GMT+32,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+33,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+34,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+35,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+36,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+37,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+38,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/02/03 3:26:01 PM GMT+39,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+40,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+41,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+42,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2021/02/03 3:26:01 PM GMT+43,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/02/03 3:26:01 PM GMT+44,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2021/02/03 3:26:01 PM GMT+45,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:11:18 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 5:14:57 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:39:54 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:53:29 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:59:32 PM GMT+6,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:05:47 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:13:35 PM GMT+6,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:17:30 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:18:27 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:37:38 PM GMT+6,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:40:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:44:02 PM GMT+6,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/03 3:26:01 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/03 6:25:04 PM GMT+6,4th year,Normal,40,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 5:40:40 PM GMT+6,4th year,Bad,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/04 8:43:29 PM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,7
+2020/12/05 4:14:34 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/07 9:51:32 AM GMT+6,4th year,Normal,45,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2020/12/11 3:47:56 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/15 11:41:42 AM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/18 10:05:21 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,No,Family,Yes,No,Yes,No,No,8
+2020/12/20 10:29:44 AM GMT+6,4th year,Good,60,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,No,8
+2020/12/20 2:18:53 PM GMT+6,4th year,Good,40,Female,23,Home,Single,Yes,4,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8
+2020/12/20 3:05:48 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:06:26 PM GMT+6,4th year,Good,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 3:11:18 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 5:14:57 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:39:54 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:53:29 PM GMT+6,4th year,Good,73,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 8:59:32 PM GMT+6,4th year,Normal,60,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:05:47 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:13:35 PM GMT+6,4th year,Bad,44,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:17:30 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:18:27 PM GMT+6,4th year,Normal,50,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:37:38 PM GMT+6,4th year,Bad,38,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8
+2020/12/20 9:40:55 PM GMT+6,4th year,Normal,55,Female,23,Home,Single,Yes,5,Good,No,Yes,No,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:44:02 PM GMT+6,4th year,Bad,41,Female,23,Home,Single,Yes,4,Normal,Yes,No,No,Family,Yes,No,Neutral,Yes,No,4
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,78,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7
+2020/12/20 9:45:59 PM GMT+6,4th year,Good,77,Female,23,Home,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,7
+2021/01/30 9:20:17 PM GMT+6,1st year,Normal,64,Female,19,Department,Single,Yes,5,Good,No,No,Yes,Family,Yes,Maybe,Yes,Yes,No,6
+2021/01/30 9:20:27 PM GMT+6,1st year,Normal,64,Female,19,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Maybe,Yes,Yes,No,7
+2021/01/30 9:20:38 PM GMT+6,2nd year,Normal,66,Female,20,Department,Single,No,3,Good,No,No,No,Family,Yes,No,Yes,Yes,No,8
+2021/01/30 9:20:48 PM GMT+6,1st year,Very good,90,Female,19,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,10
+2021/01/30 9:20:58 PM GMT+6,3rd year,Very good,91,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:21:18 PM GMT+6,1st year,Normal,62,Female,19,Home,Single,Yes,4,Good,No,No,No,Family,Yes,No,Neutral,Yes,No,7
+2021/01/30 9:21:29 PM GMT+6,1st year,Good,76,Female,19,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/01/30 9:21:48 PM GMT+6,3rd year,Bad,34,Female,21,Department,Single,Yes,2,Bad,Yes,No,Yes,Friends,Yes,Yes,Neutral,No,No,7
+2021/01/30 9:22:02 PM GMT+6,2nd year,Bad,49,Female,20,Playground,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,7
+2021/01/30 9:22:21 PM GMT+6,3rd year,Very bad,4,Female,21,Department,Single,No,1,Good,Yes,No,Yes,Friends,Yes,Yes,No,No,Yes,4
+2021/01/30 9:22:29 PM GMT+6,2nd year,Very good,99,Female,20,Department,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:22:49 PM GMT+6,3rd year,Good,77,Female,21,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:22:59 PM GMT+6,4th year,Bad,31,Female,22,Home,Single,Yes,2,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:09 PM GMT+6,3rd year,Very good,98,Female,21,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:23:19 PM GMT+6,1st year,Very good,98,Female,19,Department,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+2021/01/30 9:23:29 PM GMT+6,4th year,Bad,26,Female,22,Department,Single,Yes,2,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:51 PM GMT+6,1st year,Bad,46,Female,19,Hall-Mess,Single,Yes,1,Normal,Yes,Yes,No,Family,Yes,No,No,Yes,No,3
+2021/01/30 9:23:59 PM GMT+6,3rd year,Good,82,Female,21,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,7
+2021/01/30 9:24:10 PM GMT+6,2nd year,Normal,65,Female,20,Department,Single,Yes,5,Good,Yes,Yes,Yes,Family,Yes,No,Yes,Yes,Yes,6
+2021/01/30 9:24:30 PM GMT+6,2nd year,Good,71,Female,20,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2021/01/30 9:24:51 PM GMT+6,2nd year,Normal,65,Female,20,Home,Single,Yes,3,Good,Yes,No,No,Family,Yes,No,Neutral,Yes,No,6
+2021/01/30 9:25:01 PM GMT+6,3rd year,Good,78,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2021/01/30 9:25:10 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8
+2021/01/30 9:25:30 PM GMT+6,4th year,Bad,44,Female,23,Playground,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+2021/07/20 1:47:54 PM GMT+6,4th year,Bad,20,Female,23,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,21
+2021/07/20 6:47:11 PM GMT+6,4th year,Good,80,Female,24,Home,Single,Yes,2,Normal,No,No,Yes,Family,No,Yes,No,No,No,20
+2021/01/30 9:20:17 PM GMT+6,1st year,Normal,64,Female,19,Department,Single,Yes,5,Good,No,No,Yes,Family,Yes,Maybe,Yes,Yes,No,6
+2021/01/30 9:20:27 PM GMT+6,1st year,Normal,64,Female,19,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Friends,Yes,Maybe,Yes,Yes,No,7
+2021/01/30 9:20:38 PM GMT+6,2nd year,Normal,66,Female,20,Department,Single,No,3,Good,No,No,No,Family,Yes,No,Yes,Yes,No,8
+2021/01/30 9:20:48 PM GMT+6,1st year,Very good,90,Female,19,Playground,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,10
+2021/01/30 9:20:58 PM GMT+6,3rd year,Very good,91,Female,21,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:21:18 PM GMT+6,1st year,Normal,62,Female,19,Home,Single,Yes,4,Good,No,No,No,Family,Yes,No,Neutral,Yes,No,7
+2021/01/30 9:21:29 PM GMT+6,1st year,Good,76,Female,19,Playground,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/01/30 9:21:48 PM GMT+6,3rd year,Bad,34,Female,21,Department,Single,Yes,2,Bad,Yes,No,Yes,Friends,Yes,Yes,Neutral,No,No,7
+2021/01/30 9:22:02 PM GMT+6,2nd year,Bad,49,Female,20,Playground,Single,Yes,1,Good,Yes,Yes,Yes,Family,Yes,Yes,Yes,Yes,No,7
+2021/01/30 9:22:21 PM GMT+6,3rd year,Very bad,4,Female,21,Department,Single,No,1,Good,Yes,No,Yes,Friends,Yes,Yes,No,No,Yes,4
+2021/01/30 9:22:29 PM GMT+6,2nd year,Very good,99,Female,20,Department,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:22:49 PM GMT+6,3rd year,Good,77,Female,21,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/01/30 9:22:59 PM GMT+6,4th year,Bad,31,Female,22,Home,Single,Yes,2,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:09 PM GMT+6,3rd year,Very good,98,Female,21,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+2021/01/30 9:23:19 PM GMT+6,1st year,Very good,98,Female,19,Department,Single,Yes,3,Good,No,No,Yes,Friends,Yes,No,Neutral,No,No,9
+2021/01/30 9:23:29 PM GMT+6,4th year,Bad,26,Female,22,Department,Single,Yes,2,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,Yes,3
+2021/01/30 9:23:51 PM GMT+6,1st year,Bad,46,Female,19,Hall-Mess,Single,Yes,1,Normal,Yes,Yes,No,Family,Yes,No,No,Yes,No,3
+2021/01/30 9:23:59 PM GMT+6,3rd year,Good,82,Female,21,Hall-Mess,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,7
+2021/01/30 9:24:10 PM GMT+6,2nd year,Normal,65,Female,20,Department,Single,Yes,5,Good,Yes,Yes,Yes,Family,Yes,No,Yes,Yes,Yes,6
+2021/01/30 9:24:30 PM GMT+6,2nd year,Good,71,Female,20,Home,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,8
+2021/01/30 9:24:51 PM GMT+6,2nd year,Normal,65,Female,20,Home,Single,Yes,3,Good,Yes,No,No,Family,Yes,No,Neutral,Yes,No,6
+2021/01/30 9:25:01 PM GMT+6,3rd year,Good,78,Female,21,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,7
+2021/01/30 9:25:10 PM GMT+6,4th year,Good,79,Female,23,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8
+2021/01/30 9:25:30 PM GMT+6,4th year,Bad,44,Female,23,Playground,Single,No,2,Normal,Yes,No,Yes,Family,Yes,Maybe,Yes,Yes,Yes,6
+2021/07/20 1:47:54 PM GMT+6,4th year,Bad,20,Female,23,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,21
+2021/07/20 6:47:11 PM GMT+6,4th year,Good,80,Female,24,Home,Single,Yes,2,Normal,No,No,Yes,Family,No,Yes,No,No,No,20
+2021/06/23 11:41:54 AM GMT+6,4th year,Bad,41,Female,23,Hall-Mess,Single,Yes,2,Normal,Yes,Yes,Yes,Friends,Yes,No,Neutral,No,No,4
+2021/06/23 11:41:54 AM GMT+7,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Good,No,No,Yes,Family,Yes,No,Yes,No,No,9
+2021/06/23 11:41:54 AM GMT+8,4th year,Good,88,Female,23,Hall-Mess,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,10
+2021/06/23 11:41:54 AM GMT+9,4th year,Very good,90,Female,23,Home,Single,Yes,4,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,10
+2021/06/23 11:41:54 AM GMT+10,4th year,Normal,50,Female,23,Hall-Mess,Single,Yes,4,Normal,No,No,No,Friends,Yes,No,Neutral,No,No,6
+2021/06/23 11:41:54 AM GMT+11,4th year,Good,83,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,No,8
+2021/06/23 11:41:54 AM GMT+12,4th year,Normal,62,Female,23,Home,Single,Yes,3,Good,Yes,Yes,No,Family,Yes,Maybe,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+13,4th year,Normal,57,Female,23,Playground,Single,Yes,5,Good,Yes,Yes,No,Family,Yes,No,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+14,4th year,Normal,70,Female,23,Department,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,Neutral,Yes,Yes,8
+2021/06/23 11:41:54 AM GMT+15,4th year,Bad,31,Female,23,Department,Single,No,2,Normal,Yes,Yes,No,Family,Yes,Yes,Yes,No,No,6
+2021/06/23 11:41:54 AM GMT+16,4th year,Bad,46,Female,23,Department,Single,No,1,Good,Yes,No,No,Friends,Yes,No,Neutral,Yes,Yes,7
+2021/06/23 11:41:54 AM GMT+17,4th year,Very good,90,Female,23,Playground,Single,Yes,4,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,9
+2021/06/23 11:41:54 AM GMT+18,4th year,Normal,63,Female,23,Home,Single,Yes,3,Good,No,Yes,No,Friends,Yes,Maybe,Yes,Yes,No,6
+2021/06/23 11:41:54 AM GMT+19,4th year,Good,81,Female,23,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,10
+2021/06/23 11:41:54 AM GMT+20,4th year,Normal,54,Female,23,Playground,Single,No,4,Normal,Yes,No,No,Friends,Yes,No,Yes,No,Yes,8
+2021/06/23 11:41:54 AM GMT+21,4th year,Good,89,Female,23,Playground,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,7
+2021/06/23 11:41:54 AM GMT+22,4th year,Very good,99,Female,23,Home,Single,Yes,5,Good,No,No,Yes,Family,Yes,No,Yes,No,Yes,8
+2021/06/23 11:41:54 AM GMT+23,4th year,Very good,91,Female,23,Department,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Neutral,No,Yes,8
+2021/06/23 11:41:54 AM GMT+24,4th year,Very good,100,Female,23,Home,Single,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Neutral,No,Yes,10
+2021/06/23 11:41:54 AM GMT+25,4th year,Normal,69,Female,23,Playground,Single,No,5,Good,Yes,Yes,Yes,Family,Yes,Maybe,Neutral,No,Yes,7
